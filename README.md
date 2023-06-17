@@ -59,7 +59,7 @@ _**Write "SELECT * FROM college" query and test it**_
 
 | HTTP Method | URL or API PATH                    | Action                           |
 |-------------|------------------------------------|----------------------------------|
-| PUT         | localhost:2000/college/update/{id} |                                  |
+| PUT         | localhost:2000/college/update/{id} | update college by id information |
 
 ![6](https://github.com/Furkan-Boncuk/Spring-Boot-H2-Database/assets/114020260/1b8a3dea-0c9d-4063-b2aa-1e3af7aaed21)
 
